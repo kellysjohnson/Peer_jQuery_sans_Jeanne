@@ -1,0 +1,40 @@
+#propertyList div {
+	text-align: center;
+	display:block;
+	padding: 10px;
+}
+
+#propertyList div div {
+	text-align: center;
+	display: inline;
+	background-color: #FF3399;
+	font-size: 30px;
+	width: 1000px;
+	margin: 0 auto;
+	color: white;
+}
+
+.generate {
+	text-align: center;
+	width: 200px;
+	height: 75px;
+	font-size: 20px;
+	margin: 0px 0px 0px 385px;
+	background-color: #00E600;
+	border-radius: 5px;
+}
+
+.generateContainer {
+	display: inline;
+	margin: 0 auto;
+	position: center;
+}
+
+.removeButton {
+	background-color: silver;
+	text-align: center;
+	font-style: bold;
+	font-size: 12px;
+	height:30px;
+	width:70px;
+}
